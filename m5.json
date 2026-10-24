@@ -1,0 +1,13 @@
+{
+ "client_id": "https://cdn.jsdelivr.net/gh/maceoCK/manicule-pt-meta-1024@main/m5.json",
+ "client_name": "pt-probe",
+ "grant_types": [
+  "client_credentials"
+ ],
+ "token_endpoint_auth_method": "none",
+ "scope": "mcp",
+ "redirect_uris": [
+  "http://localhost:3000/callback"
+ ],
+ "disabled": false
+}
