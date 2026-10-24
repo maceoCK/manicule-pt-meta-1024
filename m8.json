@@ -1,0 +1,8 @@
+{
+ "client_id": "https://cdn.jsdelivr.net/gh/maceoCK/manicule-pt-meta-1024@main/m8.json",
+ "client_name": "pt-probe",
+ "token_endpoint_auth_method": "none",
+ "redirect_uris": [
+  "http://localhost:3000/callback"
+ ]
+}
